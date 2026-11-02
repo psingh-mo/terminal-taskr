@@ -31,9 +31,9 @@ cd terminal-taskr
 ## Usage
 
 ```bash
-./task.sh create task_name;
-./task.sh edit task_name;
-./task.sh complete task_name;
+./task.sh create task_name
+./task.sh edit task_name
+./task.sh complete task_name
 ```
 
 ## Roadmap
